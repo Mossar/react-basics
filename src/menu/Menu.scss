@@ -1,0 +1,25 @@
+.menu {
+  background: #333;
+  padding: 5px 20px;
+  height: 50px;
+
+  .menu-list {
+    margin: 0;
+  }
+
+  h4 {
+    float: left;
+    margin-right: 15px;
+    color: white;
+  }
+
+  .menu-element {
+    float: left;
+    list-style-type: none;
+    margin-right: 15px;
+    a {
+      text-decoration: none;
+      color: white;
+    }
+  }
+}
